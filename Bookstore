@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Character encoding for the webpage -->
+    <meta charset="UTF-8">
+
+    <!-- Makes the page responsive on different devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title shown in the browser tab -->
+    <title>fictional Bookstore</title>
+</head>
+<body>
+
+     <!-- Main heading displaying the bookstore name -->
+     <h1>Readers Paradise</h1>
+
+    <!-- Welcome paragraph with bold and italic text -->
+    <p>Welcome to <b>Readers Paradise</b><i>Your one-stop shop for all things books</i></p>
+
+    <!-- Short description of the bookstore -->
+    <p>A haven for book lovers with a vast collection and cozy reading nooks</p>
+
+    <!-- Inspirational quote from a famous author -->
+    <p>“A reader lives a thousand lives before he dies.” <i>George R.R</p>
+
+    <!-- Section showcasing available books using div and span -->
+    <div>
+        <span>
+            <!-- Subheading for genres/books -->
+            <h2>Genres Available:</h2>
+
+            <!-- First featured book -->
+            <b>The Alchemist</b> by <i>Paulo Coelho</i><br>
+            A philosophical story about following your dreams and listening to your heart.
+        </span>
+    </div>
+
+    <br>
+
+    <!-- Second featured book -->
+    <div>
+        <span>
+            <b>1984</b> by <i>George Orwell</i><br>
+            A dystopian novel exploring themes of totalitarianism, surveillance, and individuality.
+        </span>
+    </div>
+
+    <!-- Third featured book -->
+    <div>
+        <span>
+            <b>To Kill a Mockingbird</b> by <i>Harper Lee</i><br>
+            A powerful narrative on racial injustice and moral growth in the American South.
+        </span>
+    </div>
+
+    <!-- List of book categories -->
+    <h2> Book Categories:</h2>
+    <ul>
+        <li>Fiction</li>
+        <li>Non-Fiction</li>
+        <li>Mystery</li>
+    </ul>
+
+    <!-- Ordered list showing price ranges -->
+    <h3>Price range:</h3>
+    <ol>
+        <li>Under $10</li>
+        <li>$10 - $20</li>
+        <li>Above $20</li>
+    </ol>
+
+    <!-- Availability section (table rows shown below) -->
+    <h4> Availability</h4>    
+
+    <!-- Table data related to availability and pricing -->
+    <td>Non-Fiction</td>
+    <td>$12 – $30</td>
+    <td>Limited Stock</td>
+    </tr>
+    <tr>
+        <td>Children's Books</td>
+        <td>$8 – $20</td>
+        <td>Available</td>
+    </tr>
+    </table>
+
+    <!-- Section for embedded YouTube book reading session -->
+    <h2>Book Reading Session</h2>
+
+    <!-- Iframe embedding a YouTube video -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVlnAqOtr4U?si=-DFaaWcF15mqHGJz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
