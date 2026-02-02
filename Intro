@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Introduction</title>
+</head>
+<body>
+    <h1> Aparna S</h1>
+    <p>Hi! Iam Aparna S . Iam Currently Pursuing my BTech final year in the the stream of Information Technology. I am a person who enjoys learning new things and
+exploring technology.</p>
+<h2>My Hobbies are:</h2>
+<ul>
+        <li>Watching TV</li>
+        <li>Listening to music</li>
+        <li>Cooking</li>
+    </ul>
+    <img src="Flower.jpg"alt="Flower Image" width="400px" height="300px">
+    <p>
+        My Favourite website is:
+        <a href="https://www.netflix.com/in/"> Netflix</a>
+    </p>
+   </body>
+</html>
