@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Newsletter Signup</title>
+</head>
+<body>
+
+  <h2>Newsletter Signup</h2>
+
+  <form>
+    <label>
+      Full Name:
+      <br>
+      <input type="text" name="fullname" required>
+    </label>
+    <br>
+
+    <label>
+      Email Address:
+      <br>
+      <input type="email" name="email" required>
+    </label>
+    <br>
+
+    <label>
+      <input type="checkbox" required>
+      I agree to the terms and conditions
+    </label>
+    <br>
+
+    <button type="submit">submit</button>
+  </form>
+  <p>
+    &copy; <span id="year"></span> Newsletter Inc.
+  </p>
+
+</body>
+</html>
